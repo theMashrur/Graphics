@@ -11,7 +11,7 @@ No installation is neeeded to run these shaders.
 Head to https://shaderlabweb.doc.ic.ac.uk/ and upload the necessary JSON under "Upload state"
 
 ## Gouraud Shading
-
+![Alt text](/Illumination/Gouraud/gouraud_screenshot.jpg?raw=true)
 ## Phong Shading
 
 ## Toon Shading
