@@ -13,7 +13,7 @@ Head to https://shaderlabweb.doc.ic.ac.uk/ and upload the necessary JSON under "
 ## Gouraud Shading
 ![Alt text](/Illumination/Gouraud/gouraud_screenshot.jpg?raw=true)
 ## Phong Shading
-
+![Alt text](/Illumination/Phong/phong_screenshot.jpg?raw=true)
 ## Toon Shading
 
 ## Texture Mapping
